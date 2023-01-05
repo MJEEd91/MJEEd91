@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/greatmjeed" target="blank"><img src="https://img.shields.io/twitter/follow/greatmjeed?logo=twitter&style=for-the-badge" alt="greatmjeed" /></a> </p>
 
-- 🌱 I’m currently learning **Js, Python, and Sql**
+- 🌱 I’m currently learning **Java, Networking, Data analysis using Python, and Sql**
 
 - 💬 Ask me about **anything I can help with (:**
 
 - 📫 How to reach me **moajz77@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
