@@ -27,9 +27,9 @@ I'm constantly seeking new knowledge and expanding my skill set. Currently, I'm 
 
 ## 🌍 Let's Connect
 
-👉 LinkedIn: [Your LinkedIn Profile](LinkedIn Link)
-🐦 Twitter: [@YourTwitterHandle](Twitter Link)
-✉️ Email: your.email@example.com
+👉 LinkedIn: [https://www.linkedin.com/in/abdulmajeed-masrahi-649a54228/](LinkedIn Link)
+🐦 Twitter: [https://twitter.com/GreatMJEEd](Twitter Link)
+✉️ Email: moajz77@gmail.com
 
 Feel free to reach out for discussions, collaborations, or just a friendly chat. Let's explore the possibilities together!
 
